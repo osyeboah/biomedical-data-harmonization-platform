@@ -1,0 +1,19 @@
+﻿# Initial data-quality rule categories
+
+version: "0.1.0"
+
+checks:
+  completeness:
+    enabled: true
+
+  uniqueness:
+    enabled: true
+
+  consistency:
+    enabled: true
+
+  validity:
+    enabled: true
+
+  referential_integrity:
+    enabled: true

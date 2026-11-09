@@ -1,0 +1,12 @@
+biopython
+requests
+pandas
+numpy
+sqlalchemy
+psycopg[binary]
+alembic
+pydantic
+pydantic-settings
+fastapi
+uvicorn[standard]
+python-dotenv

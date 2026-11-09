@@ -1,0 +1,17 @@
+﻿# Metadata harmonization rules
+# Rules will be expanded as real GEO datasets are inspected.
+
+version: "0.1.0"
+
+fields:
+  organism:
+    enabled: true
+    description: "Standardized organism names"
+
+  tissue:
+    enabled: true
+    description: "Standardized tissue labels"
+
+  treatment:
+    enabled: true
+    description: "Standardized treatment labels"
