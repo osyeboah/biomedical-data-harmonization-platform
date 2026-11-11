@@ -1,4 +1,5 @@
-﻿"""Application entry point."""
+"""Application entry point."""
+
 
 def main() -> None:
     """Display the initial project status."""

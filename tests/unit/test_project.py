@@ -1,4 +1,5 @@
-﻿"""Initial project structure tests."""
+"""Initial project structure tests."""
+
 
 def test_project_package_imports():
     import biomedical_platform
